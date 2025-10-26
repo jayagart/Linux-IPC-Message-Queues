@@ -87,8 +87,8 @@ int main()
 
 
 ## OUTPUT
-![Alt text](../1.png)
 
+![Alt text](<../Screenshot at 2025-10-26 09-49-25.png>)
 
 
 # RESULT:
